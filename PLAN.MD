@@ -1,8 +1,8 @@
 ## 料金
-- 1 Day : 500 Yen
-- 1 Week : 1,500 Yen
-- 1 Month : 3,000 Yen
-- Lifetime : 10,000 Yen
+- 1 Day : 100 Yen
+- 1 Week : 500 Yen
+- 1 Month : 1,500 Yen
+- Lifetime : 5,000 Yen
 
 ## 支払い方法
 1. Discord サーバーに参加後チケット発行
