@@ -11,3 +11,4 @@
     - PayPal
     - Amazon Gift
 3. 支払い証書(スクリーンショットなど)を送信
+4. CatWheel.exe起動時、マシンIDが表示されるのでマシンIDを送信
