@@ -1,4 +1,7 @@
 # README
+## Discord Server
+[![Discord](https://img.shields.io/discord/1398094112871157792?label=Discord&logo=discord&style=flat)](https://discord.gg/QcnZaxR3HE)
+
 ## 利用条件
 ### 必須
 + AndApp版グランブルーファンタジー
