@@ -8,7 +8,6 @@
 1. Discord サーバーに参加後チケット発行
 2. 希望する支払い方法とプランを伝える
     - PayPay
-    - PayPal
     - Amazon Gift
 
     例: `1Month PayPay`
