@@ -2,13 +2,19 @@
 ## Discord Server
 [![Discord](https://img.shields.io/discord/1398094112871157792?label=Discord&logo=discord&style=flat)](https://discord.gg/QcnZaxR3HE)
 
-## 利用条件
+## 動作環境
 ### 必須
 + AndApp版グランブルーファンタジー
 + FHD以上の解像度を有するディスプレイ
++ Windows OS
 
 ### 推奨
 + Windows 11 以降
+
+### 非対応
++ ブラウザ版グランブルーファンタジー
++ Windows 以外のOS
++ Windows 10以下のOSバージョン
 
 ---
 
